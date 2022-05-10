@@ -1,0 +1,9 @@
+Student Name: Andrew Miller
+Test Scores:  87.50 89.00 65.75 37.00 98.50
+Average test scores:  75.55
+Student Name: Green Sheila
+Test Scores:  91.05 75.88 50.00 65.50 74.30
+Average test scores:  71.35
+Student Name: Shethi Amit
+Test Scores:  49.82 75.00 30.00 74.00 86.30
+Average test scores:  63.02
